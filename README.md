@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating usable and friendly UI Designs and implementing them using html, css and js
 - 🌱 I’m currently learning product design and hope to pick up frontend soon
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me on twitte, @ladylikelauraa
+- 📫 How to reach me on twitter: @ladylikelauraa
 
 <!---
 ladylikelaura/ladylikelaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
